@@ -51,7 +51,7 @@ PrivilegesRequired=admin
 
 ; --- 输出设置 ---
 OutputDir={#OutputFolder}
-OutputBaseFilename=WanFan_BioSignal_Setup_v{#MyAppVersion}
+OutputBaseFilename=EMG_Vision_Setup_v{#MyAppVersion}
 
 ; --- 版本信息 (右键属性可见) ---
 VersionInfoCompany={#MyAppPublisher}
